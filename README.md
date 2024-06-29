@@ -2,7 +2,7 @@
 
 I’m thrilled to share some exciting insights from analyzing Wavecon's 5G launch! As part of my virtual internship, I had the amazing opportunity to dive deep into Wavecon's dashboard data and answer critical questions through data analysis.
 
-### Presentation link - 
+### Presentation link -  https://www.linkedin.com/posts/akash-singh-dataanalyst_codebasicsvirtualinternship-dataanalysis-activity-7212628339570663425-Fv7h?utm_source=share&utm_medium=member_desktop
 
 ## About Wavecon:-
 
